@@ -1,0 +1,22 @@
+{
+  "name": "basic_flashcard_application",
+  "version": "1.0.0",
+  "description": "assigment week 11",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duydodevgithub/basic_flashcard_application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duydodevgithub/basic_flashcard_application/issues"
+  },
+  "homepage": "https://github.com/duydodevgithub/basic_flashcard_application#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  }
+}
